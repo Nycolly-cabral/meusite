@@ -20,21 +20,21 @@
 .doceria-imagem{
    width: 20%;
 }
-.padaria{
+.doceria{
 background-color: #9d88eb,white;
 color: #fffefe;
 display: flex;
 justify-content: center;
 }
 
-.padaria-div-conteudo{
+.doceria-div-conteudo{
    width: 35%;
 }
-.padaria-tiutlo{
+.doceria-titulo{
    padding: 24px 0 ;
 
 }
-.padaria{
+.doceria{
    background-image: linear-gradient(rgb(118, 3, 240),#7016f880);
    color:white;
    display: flex;
