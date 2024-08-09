@@ -1,4 +1,57 @@
-.cabecalho {
-    background-color: hotpink;
-    color: aliceblue
-    };
+*{
+    margin: 0;
+   padding: 0;
+}
+
+.cabecalho{
+   background-color:rgb(118, 3, 240);
+   color: white;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   padding: 24px 0;
+}
+
+  .cabecalho-imagem{
+   width: 20%
+}
+
+
+.doceria-imagem{
+   width: 20%;
+}
+.padaria{
+background-color: #9d88eb,white;
+color: #fffefe;
+display: flex;
+justify-content: center;
+}
+
+.padaria-div-conteudo{
+   width: 35%;
+}
+.padaria-tiutlo{
+   padding: 24px 0 ;
+
+}
+.padaria{
+   background-image: linear-gradient(rgb(118, 3, 240),#7016f880);
+   color:white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+padding: 24px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
